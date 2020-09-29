@@ -1,0 +1,7 @@
+#new directory
+My message here
+
+
+def directory(print)
+ puts "Hello World"
+end
